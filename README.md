@@ -58,7 +58,7 @@
 
 <br>
 
-#### <center> 🛠️ The Monkey at NJAU's Contribution Plot</center> 
+### <center> 🛠️ The Monkey at NJAU's Contribution Plot</center> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
