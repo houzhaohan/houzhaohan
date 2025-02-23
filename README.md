@@ -1,12 +1,10 @@
-# <div align="center">✨ Welcome to My Profile! ✨</div>
+### <div align="center">✨ Welcome to My Profile! ✨</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hello%20World!-Welcome-blue?style=flat-square" alt="welcome banner">
 </div>
 
----
-
-## <div align="center">🖋️ About Me</div>
+### <div>🖋️ About Me</div>
 
 <div style="
   font-size: 2.5em;
@@ -15,51 +13,11 @@
   font-family: 'Segoe UI', 'SimHei', sans-serif;
   color: #2c3e50;
 ">
-  I am 侯兆晗
 </div>
 
-<div style="
-  text-align: center;
-  font-size: 1.2em;
-  color: #7f8c8d;
-  max-width: 600px;
-  margin: 0 auto;
-  line-height: 1.6;
-">
-  � 正在探索数字世界的奇妙旅程<br>
-  📚 持续学习 | 💡 创新思考 | 🎯 追求卓越
-</div>
+### <div>📬 Connect with Me</div>
 
----
-
-### <div align="center">📬 Connect with Me</div>
-
-<div align="center" style="margin-top: 30px;">
-
-📧 **Email**: [houzhaohan@example.com](mailto:houzhaohan@example.com)  
-💻 **GitHub**: [YourGitHubProfile](https://github.com/)  
-🔗 **LinkedIn**: [YourLinkedIn](https://linkedin.com/)
-
-</div>
-
-<style>
-  hr {
-    border: 0;
-    height: 1px;
-    background: #bdc3c7;
-    margin: 40px 10%;
-  }
-</style>
-
-
-## Hi there 👋
-### 📚 Academic Profile
-
-**Nanjing Agricultural University**  
-*(2022-Present)*  
-Specializing in Information Management and Information System
-
-### 📬 How to Reach Me
+<div style="margin-top: 30px;">
 
 - **Email**: [houzhaohan@yeah.net](mailto:houzhaohan@yeah.net)  
   📧 Feel free to drop me a message anytime!
