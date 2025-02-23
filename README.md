@@ -82,4 +82,3 @@
   </a>
 </p>
 
-![rocket](.picture/photo1.gif)
