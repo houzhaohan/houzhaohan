@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World!;Welcome+to+My+Profile!;I+am+Zhaohan+Hou" alt="Text effect" />
-</div>
+<!-- 动态标题 -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=435&lines=Hi+👋+I'm+Zhaohan+Hou;Welcome+to+My+GitHub+Profile!&center=true&size=24" />
+  </a>
+</h1>
 
 ### <div>🖋️ About Me</div>
 
@@ -49,3 +52,32 @@
   </a>
 </p>
 
+#新
+
+<!-- 双统计卡片 -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houzhaohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houzhaohan&layout=compact&theme=radical&langs_count=8"/>
+</div>
+
+<!-- 3D贡献图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houzhaohan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity">
+</p>
+
+<!-- 详细统计面板 -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houzhaohan&theme=monokai" />
+    </td>
+  </tr>
+</table>
+
+<!-- 动态统计区 -->
+📊 **GitHub Journey**  
+```text
+🌱 Account Age:    正在获取天数...
+🎯 Repositories:   https://api.github.com/users/houzhaohan/repos
+🌟 Total Stars:    https://api.github.com/users/houzhaohan/starred
+💡 Contributions:  https://github-readme-streak-stats.herokuapp.com/?user=houzhaohan
