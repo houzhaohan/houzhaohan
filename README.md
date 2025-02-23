@@ -63,7 +63,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -82,3 +82,6 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/main/picture/photo1.gif" alt="动态效果" width="300">
+</div>
