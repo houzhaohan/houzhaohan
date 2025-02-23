@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-### My skills
+## 📬 How to Reach Me
+
+- **Email**: [houzhaohan@yeah.net](mailto:houzhaohan@yeah.net)  
+  📧 Feel free to drop me a message anytime!
+
+- **Address**: Nanjing, Jiangsu, China  
+  🗺️ Currently based in the beautiful city of Nanjing
+
+## My Skills
 | Property | Data |
 |---|---|
 | **Language / IDE** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)  ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white) ![RStudio Badge](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=white) ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp;|
