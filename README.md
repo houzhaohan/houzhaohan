@@ -82,10 +82,3 @@
   </a>
 </p>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">🐒</marquee>
-</p>
----
-<p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="10">🐒</marquee>
-</p>
