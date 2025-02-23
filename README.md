@@ -82,6 +82,4 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/main/picture/photo1.gif" alt="动态效果" width="300">
-</div>
+![Walking Monkey](https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif)
