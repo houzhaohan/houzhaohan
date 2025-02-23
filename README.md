@@ -1,64 +1,9 @@
 ## Hi there 👋
-## 📚 Academic Profile
+### 📚 Academic Profile
 
-### College of Information and Management Science  
 **Nanjing Agricultural University**  
-*(202X-Present)*  
-Specializing in Information Management and Data Science  
-
----
-
-### 🔍 Core Competencies
-- **Curriculum**:  
-  • Database Systems Design  
-  • Big Data Analytics  
-  • Information Retrieval  
-  • Agricultural Information Modeling  
-  • Machine Learning Fundamentals  
-
-- **Technical Skills**:  
-  💻 Python | R | SQL  
-  📊 Tableau | Power BI  
-  🛠️ Hadoop | Spark Basics  
-  🌐 Web Development (HTML/CSS/JS)  
-
----
-
-### � Academic Highlights
-- **Projects**:  
-  ▶️ Developed an intelligent agricultural product traceability system  
-  ▶️ Analyzed crop yield patterns using Python+Pandas (1M+ dataset)  
-  ▶️ Designed relational database for campus library resources  
-
-- **Achievements**:  
-  � 3rd Prize - National College Data Mining Challenge  
-  � "Outstanding Academic Performance" Scholarship (Top 5%)  
-  🏅 Certified Data Analyst (CDA Level I)  
-
----
-
-### 🧠 Academic Resources
-- **Lab Engagement**:  
-  Regular contributor to [Digital Agriculture Innovation Lab](https://example-lab-link.edu)  
-  Member of NAU Data Visualization Research Group  
-
-- **Learning Toolkit**:  
-  📘 Coursera | edX | Kaggle  
-  📗 IEEE Xplore | SpringerLink  
-  📙 Latex | Overleaf | Jupyter Notebooks  
-
----
-
-### 🌱 Campus Involvement
-- **Organizations**:  
-  � NAU Tech Innovators Club (Core Member)  
-  🧩 University Open Data Competition Coordinator  
-  🫂 Volunteer at Nanjing Smart Farming Workshops  
-
-- **Conferences**:  
-  Presented paper at *Young Scholars Forum on Agri-Informatics 2023*  
-  Attended *International Conference on Agricultural Big Data (ICABD 2023)*  
-
+*(2022-Present)*  
+Specializing in Information Management and Information System
 
 ### 📬 How to Reach Me
 
@@ -68,7 +13,7 @@ Specializing in Information Management and Data Science
 - **Address**: Nanjing, Jiangsu, China  
   🗺️ Currently based in the beautiful city of Nanjing
 
-### My Skills
+### 🧩 My Skills
 | Property | Data |
 |---|---|
 | **Language / IDE** | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white)  ![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white) ![RStudio Badge](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=RStudio&logoColor=white) ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp;|
