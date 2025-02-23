@@ -42,3 +42,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houzhaohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houzhaohan&layout=compact&theme=radical&langs_count=8"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  </a>
+</p>
+
