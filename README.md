@@ -60,7 +60,11 @@
   </a>
 </p>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- 联系方式 -->
 <h2 align="center">✨ Click to Contact ✨</h2>
@@ -74,8 +78,3 @@
 </p>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">
-</picture>
