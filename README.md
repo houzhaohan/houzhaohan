@@ -62,16 +62,16 @@
 </table>
 
 <br>
-
+<!-- 
 ### <center> 🛠️ The Monkey at NJAU's Contribution Plot</center> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake-dark.svg">  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">  
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">  
 </picture>
-
 <br>
-
+-->
+ 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=+诚+朴+勤+仁+&author=南京农业大学校训">
