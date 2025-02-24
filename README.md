@@ -83,7 +83,7 @@
 <h2 align="center">✨ Click to Contact ✨</h2>
 <p align="center">
   <a href="https://x.com/houzhaohan?t=QxVc837S34WVZ2ExVhp6uQ&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x@houzhaohan&logoColor=white" alt="X@houzhaohan"/>
   </a>
   <a href="https://www.facebook.com/share/1F86Qa25Un/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
