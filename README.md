@@ -93,3 +93,8 @@
   </a>
 </p>
 
+<div style="border: 2px solid white; display: inline-block; padding: 5px;">
+    <a href="https://x.com/houzhaohan?t=QxVc837S34WVZ2ExVhp6uQ&s=09" target="_blank">
+        <img src="https://img.shields.io/badge/Follow@houzhaohan-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow@houzhaohan"/>
+    </a>
+</div>
