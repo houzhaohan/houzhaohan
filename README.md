@@ -95,5 +95,3 @@
     <img src="https://img.shields.io/badge/@houzhaohan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@houzhaohan"/>
 </a>
 </p>
-
-![image](https://github.com/houzhaohan/houzhaohan/blob/main/picture/1740485053916.gif)
