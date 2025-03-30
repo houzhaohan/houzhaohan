@@ -18,7 +18,7 @@
 
 <div style="margin-top: 30px;">
 
-- **Email**: [houzhaohan@yeah.net](mailto:houzhaohan@yeah.net)  
+- **Email**: [ElectronicMonkey@qq.com](mailto:ElectronicMonkey@qq.com)  
   📧 Feel free to drop me a message anytime!
 
 - **Address**: Nanjing, Jiangsu, China  
