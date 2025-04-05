@@ -1,7 +1,7 @@
 <!-- 动态标题 -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=435&lines=Hi+👋+I'm+Zhaohan+Hou;Welcome+to+My+GitHub+Profile!&center=true&size=24" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=435&lines=Hi+👋+I'm+The+Monkey+at+NJAU;Welcome+to+My+GitHub+Profile!&center=true&size=24" />
   </a>
 </h1>
 
