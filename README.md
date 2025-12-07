@@ -18,7 +18,7 @@
 
 <div style="margin-top: 30px;">
 
-- **Email**: [ElectronicMonkey@qq.com](mailto:ElectronicMonkey@qq.com)  
+- **Email**: [emial@houzhaohan.vip](mailto:email@houzhaohan.vip)  
   📧 Feel free to drop me a message anytime!
 
 - **Address**: Nanjing, Jiangsu, China  
@@ -89,5 +89,5 @@
   </a>
   <a href="https://t.me/houzhaohan" target="_blank">
     <img src="https://img.shields.io/badge/@houzhaohan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@houzhaohan"/>
-</a>
+  </a>
 </p>
