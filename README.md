@@ -18,7 +18,7 @@
 
 <div style="margin-top: 30px;">
 
-- **Email**: [emial@houzhaohan.vip](mailto:email@houzhaohan.vip)  
+- **Email**: [email@houzhaohan.vip](mailto:email@houzhaohan.vip)  
   📧 Feel free to drop me a message anytime!
 
 - **Address**: Nanjing, Jiangsu, China  
