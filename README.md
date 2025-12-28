@@ -44,15 +44,15 @@
 ### 📈 User Data
 
 <!-- 双统计卡片 -->
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houzhaohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houzhaohan&layout=compact&theme=radical&langs_count=8"/>
-</div>
+</div>-->
 
 <!-- 3D贡献图 -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=houzhaohan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity">
-</p>
+</p>-->
 
 <!-- 详细统计面板 -->
 <table align="center">
