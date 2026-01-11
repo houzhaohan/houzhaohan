@@ -5,26 +5,16 @@
   </a>
 </h1>
 
-<div style="
-  font-size: 2.5em;
-  text-align: center;
-  margin: 40px 0;
-  font-family: 'Segoe UI', 'SimHei', sans-serif;
-  color: #2c3e50;
-">
-</div>
-
-### <div>📬 Connect with Me</div>
-
-<div style="margin-top: 30px;">
+### 📬 Connect with Me</div>
 
 - **Email**: [email@houzhaohan.vip](mailto:email@houzhaohan.vip)  
   📧 Feel free to drop me a message anytime!
 
 - **Address**: Nanjing, Jiangsu, China  
-  🗺️ Currently based in the beautiful city of Nanjing
+  🗺️ Currently based in the beautiful city of **Nanjing**
 
-<br>
+- **Interests**: Blockchain, Decentralization, Web3, Distributed Computing  
+  🎓 Currently focusing on **Blockchain and Bitcoin**, including underlying protocols, consensus mechanisms, and real-world applications in decentralized networks.
 
 ### 🧩 My Skills
 | Property | Data |
@@ -39,55 +29,13 @@
 | **Mathematical Statistics** |<img src="https://img.shields.io/badge/-SPSS-1F77B4?style=flat&logo=SPSS&logoColor=white" /> <img src="https://img.shields.io/badge/-MATLAB-E4707A?style=flat&logo=MATLAB&logoColor=white" /> |
 | **Multimedia Technology** |[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html) [![Audition](https://img.shields.io/badge/-Audition-006400?style=flat&logo=adobe-audition&logoColor=white)](https://www.adobe.com/products/audition.html) |
 
-<br>
-
-### 📈 User Data
-
-<!-- 双统计卡片 -->
-<!--<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=houzhaohan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houzhaohan&layout=compact&theme=radical&langs_count=8"/>
-</div>-->
-
-<!-- 3D贡献图 -->
-<!--<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houzhaohan&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Activity">
-</p>-->
-
-<!-- 详细统计面板 -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houzhaohan&theme=monokai" />
-    </td>
-  </tr>
-</table>
-
-<br>
-<!-- 
-### <center> 🛠️ The Monkey at NJAU's Contribution Plot</center> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake-dark.svg">  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">  
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houzhaohan/houzhaohan/output/github-contribution-grid-snake.svg">  
-</picture>
-<br>
--->
- 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=+诚+朴+勤+仁+&author=南京农业大学校训">
   </a>
 </p>
 
+---
 
-<!-- 联系方式 -->
-<h2 align="center">✨ Click to Contact ✨</h2>
-<p align="center">
-  <a href="https://www.facebook.com/share/1F86Qa25Un/" target="_blank">
-    <img src="https://img.shields.io/badge/@houzhaohan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="@houzhaohan"/>
-  </a>
-  <a href="https://t.me/houzhaohan" target="_blank">
-    <img src="https://img.shields.io/badge/@houzhaohan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@houzhaohan"/>
-  </a>
-</p>
+<p align="right" style="color: #888; font-size: 8px;">Last updated: Sep 25, 2025</p>
+
