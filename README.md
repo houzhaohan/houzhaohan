@@ -29,6 +29,9 @@
 | **Mathematical Statistics** |<img src="https://img.shields.io/badge/-SPSS-1F77B4?style=flat&logo=SPSS&logoColor=white" /> <img src="https://img.shields.io/badge/-MATLAB-E4707A?style=flat&logo=MATLAB&logoColor=white" /> |
 | **Multimedia Technology** |[![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)](https://www.adobe.com/products/premiere.html) [![Audition](https://img.shields.io/badge/-Audition-006400?style=flat&logo=adobe-audition&logoColor=white)](https://www.adobe.com/products/audition.html) |
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=+诚+朴+勤+仁+&author=南京农业大学校训">
