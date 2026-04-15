@@ -10,7 +10,8 @@
 ### 📬 About Me</div>
 
 - **Email**: [email@houzhaohan.vip](mailto:email@houzhaohan.vip)  
-  📧 Feel free to drop me a message anytime!
+  📧 Feel free to drop me a message anytime!  
+  👋 Or submit a form to contact me [https://contact.houzhaohan.vip](https://contact.houzhaohan.vip)  
 
 - **Blog**: [https://blog.houzhaohan.vip](https://blog.houzhaohan.vip)   
   ✍️ Welcome to visit my blog for more insights and sharing!
