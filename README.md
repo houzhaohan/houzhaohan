@@ -19,9 +19,6 @@
 - **Address**: Nanjing, Jiangsu, China  
   🗺️ Currently based in the beautiful city of **Nanjing**
 
-- **Interests**: Blockchain, Decentralization, Web3, Distributed Computing  
-  🎓 Currently focusing on **Blockchain and Bitcoin**, including underlying protocols, consensus mechanisms, and real-world applications in decentralized networks.
-
 ### 🧩 My Skills
 | Property | Data |
 |---|---|
