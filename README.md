@@ -8,6 +8,8 @@
 </h1>
 
 ### 📬 About Me</div>
+- **Academic Page**: [https://unc.houzhaohan.vip](https://unc.houzhaohan.vip)  
+  🎓 Check out my academic updates!
 
 - **Email**: [email@houzhaohan.vip](mailto:email@houzhaohan.vip)  
   📧 Feel free to drop me a message anytime!  
